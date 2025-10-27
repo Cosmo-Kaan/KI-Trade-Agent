@@ -4,4 +4,4 @@ tavily-python
 yfinance
 requests
 pandas
-coinbase-agentkit
+coinbase-agentkit>=0.1.0
