@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+tavily-python
+yfinance
+requests
+pandas
+coinbase-agentkit
